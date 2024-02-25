@@ -31,6 +31,7 @@ public abstract class MovePokemon implements Pokemon {
 	}
 
 	public void run(){
+		runPoint = 1;
 		System.out.println(this.name + "は");
 		System.out.println("にげだした！");
 	}
