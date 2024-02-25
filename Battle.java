@@ -44,10 +44,6 @@ public class Battle{
 					case 3:
 						//未実装　キズぐすり実装予定
 						System.out.println("未実装");
-
-
-						double dama = (((((5*2/5+2)*(12*1*35))/(32*1)/50+2)*1*1)*0.85);
-						System.out.println(dama);
 						break;
 					case 4:
 						//にげる
